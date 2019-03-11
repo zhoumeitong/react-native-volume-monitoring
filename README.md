@@ -13,7 +13,9 @@
 ##### 手动添加：
 
 1、添加`react-native-volume-monitoring`插件到你工程的`node_modules`文件夹下
+
 2、添加`VolumeMonitoring `库中的`.xcodeproj`文件在你的工程中
+
 3、点击你的主工程文件，选择 `Build Phases`，然后把刚才所添加进去的`.xcodeproj`下的`Products`文件夹中的静态库文件（.a文件），拖到`Link Binary With Libraries`组内。
 
 ##### 自动添加：
