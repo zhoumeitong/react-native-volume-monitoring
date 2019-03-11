@@ -1,0 +1,23 @@
+{
+  "name": "react-native-volume-monitoring",
+  "version": "1.0.0",
+  "description": "Volume Monitoring For React Native ios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoumeitong/react-native-volume-monitoring.git"
+  },
+  "keywords": [
+    "volume",
+    "monitoring"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhoumeitong/react-native-volume-monitoring/issues"
+  },
+  "homepage": "https://github.com/zhoumeitong/react-native-volume-monitoring#readme"
+}
